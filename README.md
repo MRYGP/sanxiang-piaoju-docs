@@ -15,12 +15,14 @@
 ### `00_核心文档/` - 系统核心文档
 
 **系统指令类**
-- [`01-Core-Instructions.md`](./00_核心文档/01-Core-Instructions.md) - Claude系统指令（详细版，18KB）
-- [`三湘票据 Projects - 系统启动指令.md`](./00_核心文档/三湘票据%20Projects%20-%20系统启动指令.md) - AI助手工作原则（通用版）
+- [`系统指令4.1.md`](./00_核心文档/系统指令4.1.md) - Claude AI完整系统指令（v4.1，18KB）
+- [`三湘票据 Projects - 系统启动指令.md`](./00_核心文档/三湘票据%20Projects%20-%20系统启动指令.md) - AI助手工作原则（通用版，v1.0）
 
 **进度追踪类**
-- [`00_进度追踪器.md`](./00_核心文档/00_进度追踪器.md) - 实际使用的进度追踪器（包含当前任务）
+- [`00_进度追踪器.md`](./00_核心文档/00_进度追踪器.md) - GitHub备份版本（包含实际任务）
 - [`02-Progress-Tracker-Template.md`](./00_核心文档/02-Progress-Tracker-Template.md) - 空白模板（用于创建新追踪器）
+- [`progress-tracker-initial.md`](./00_核心文档/progress-tracker-initial.md) - Project Knowledge初始版（待上传）
+- `progress-tracker.md` → Project Knowledge（实时工作记忆，用户手动上传）
 
 **部署和使用**
 - [`DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md) - 系统部署指南（必读）
@@ -31,7 +33,7 @@
 - [`8个业务清单更新版.md`](./00_核心文档/8个业务清单更新版.md) - 8大业务清单（SSOT）
 - [`三湘票据8个业务整体商业模式（深度版）.md`](./00_核心文档/三湘票据8个业务整体商业模式（深度版）.md) - 商业模式深度解析
 - [`三湘票据AI一人公司模式说明.md`](./00_核心文档/三湘票据AI一人公司模式说明.md) - AI一人公司模式说明
-- [`商业模式总览.md`](./00_核心文档/商业模式总览.md) - 商业模式总览
+- [`商业模式快速参考.md`](./00_核心文档/商业模式快速参考.md) - 商业模式快速参考（10分钟了解）
 
 ---
 
@@ -114,7 +116,7 @@
 
 1. 打开 [`00_核心文档/DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md)
 2. 按照指南配置Claude Projects：
-   - 复制 `01-Core-Instructions.md` 到Custom Instructions
+   - 复制 `系统指令4.1.md` 到Custom Instructions
    - 上传 `progress-tracker.md` 到Knowledge Base
 3. 测试系统："当前任务是什么？"
 
@@ -234,7 +236,7 @@
 A：检查Knowledge Base中的progress-tracker.md是否是最新版本
 
 **Q2：如何更新系统指令？**  
-A：修改Custom Instructions，同时更新GitHub中的01-Core-Instructions.md
+A：修改Custom Instructions，同时更新GitHub中的系统指令4.1.md
 
 **Q3：新员工如何快速上手？**  
 A：查看 [`DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md) 的第3步：培训员工
