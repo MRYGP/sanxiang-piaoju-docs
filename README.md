@@ -19,10 +19,17 @@
 - [`三湘票据 Projects - 系统启动指令.md`](./00_核心文档/三湘票据%20Projects%20-%20系统启动指令.md) - AI助手工作原则（通用版，v1.0）
 
 **进度追踪类**
-- [`00_进度追踪器.md`](./00_核心文档/00_进度追踪器.md) - GitHub备份版本（包含实际任务）
+- [`00_进度追踪器.md`](./00_核心文档/00_进度追踪器.md) - GitHub备份版本（包含实际任务，唯一工作版本）
 - [`02-Progress-Tracker-Template.md`](./00_核心文档/02-Progress-Tracker-Template.md) - 空白模板（用于创建新追踪器）
-- [`progress-tracker-initial.md`](./00_核心文档/progress-tracker-initial.md) - Project Knowledge初始版（待上传）
+- [`progress-tracker-template-boss.md`](./00_核心文档/progress-tracker-template-boss.md) - 创始人专用模板
+- [`progress-tracker-template-ops.md`](./00_核心文档/progress-tracker-template-ops.md) - 运营专员专用模板
+- [`progress-tracker-template-intern.md`](./00_核心文档/progress-tracker-template-intern.md) - 实习生专用模板
 - `progress-tracker.md` → Project Knowledge（实时工作记忆，用户手动上传）
+
+**重要说明**：
+- 进度追踪器已统一为单一版本，避免版本混乱
+- 日常更新请直接修改 `00_核心文档/00_进度追踪器.md`
+- 如需创建新项目的追踪器，请复制对应的角色模板
 
 **部署和使用**
 - [`DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md) - 系统部署指南（必读）
