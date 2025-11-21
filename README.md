@@ -15,8 +15,8 @@
 ### `00_核心文档/` - 系统核心文档
 
 **系统指令类**
-- [`系统指令4.1.md`](./00_核心文档/系统指令4.1.md) - Claude AI完整系统指令（v4.1，18KB）
-- [`系统指令4.1完整使用说明.md`](./00_核心文档/系统指令4.1完整使用说明.md) - 系统指令4.1完整使用手册（9000字，部署+使用+维护）
+- [`系统指令4.2.md`](./00_核心文档/系统指令4.2.md) - Claude AI完整系统指令（v4.2.2）
+- [`系统指令4.2完整使用说明.md`](./00_核心文档/系统指令4.2完整使用说明.md) - 系统指令4.2完整使用手册（部署+使用+维护）
 - [`三湘票据 Projects - 系统启动指令.md`](./00_核心文档/三湘票据%20Projects%20-%20系统启动指令.md) - AI助手工作原则（通用版，v1.0）
 
 **进度追踪类**
@@ -147,7 +147,7 @@
 
 1. 打开 [`00_核心文档/DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md)
 2. 按照指南配置Claude Projects：
-   - 复制 `系统指令4.1.md` 到Custom Instructions
+   - 复制 `系统指令4.2.md` 到Custom Instructions
    - 上传 `progress-tracker.md` 到Knowledge Base
 3. 测试系统："当前任务是什么？"
 
@@ -267,7 +267,7 @@
 A：检查Knowledge Base中的progress-tracker.md是否是最新版本
 
 **Q2：如何更新系统指令？**  
-A：修改Custom Instructions，同时更新GitHub中的系统指令4.1.md
+A：修改Custom Instructions，同时更新GitHub中的系统指令4.2.md
 
 **Q3：新员工如何快速上手？**  
 A：查看 [`DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md) 的第3步：培训员工

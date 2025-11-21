@@ -7,7 +7,7 @@
 ## 🎯 三层架构（最优版本）
 
 ### 第1层：Custom Instructions（系统大脑）
-**内容**：完整的 `系统指令4.1.md`（18KB）  
+**内容**：完整的 `系统指令4.2.md`  
 **作用**：每次对话自动加载，Claude直接知道所有规则  
 **优点**：无需额外工具调用，响应最快
 
@@ -29,7 +29,7 @@
 ```
 1. 打开Claude Projects → 你的Project
 2. 点击 Settings → Custom Instructions
-3. 复制 系统指令4.1.md 的完整内容
+3. 复制 系统指令4.2.md 的完整内容
 4. 粘贴并保存
 ```
 
@@ -37,7 +37,7 @@
 
 ### 第2步：上传文件到GitHub（3分钟）
 ```
-1. 把 系统指令4.1.md 上传到 /mnt/project/
+1. 把 系统指令4.2.md 上传到 /mnt/project/
 2. 把 02-Progress-Tracker-Template.md 上传到 /mnt/project/（替换现有文件）
 ```
 
