@@ -17,8 +17,7 @@
 
 **系统指令类**
 
-- [`系统指令4.2.md`](./00_核心文档/系统指令4.2.md) - Claude AI完整系统指令（v4.2.4融合版/First Principles Edition）
-- [`系统指令4.3.md`](./00_核心文档/系统指令4.3.md) - Claude AI系统指令（v4.3轻量化运营版）
+- [`系统指令4.3.md`](./00_核心文档/系统指令4.3.md) - Claude AI系统指令（v4.3轻量化运营版，当前版本）
 - [`三湘票据 Projects - 系统启动指令.md`](./00_核心文档/三湘票据%20Projects%20-%20系统启动指令.md) - AI助手工作原则（通用版，v1.0）
 
 **进度追踪类**
@@ -139,7 +138,7 @@
 
 - ✅ 建立强制思考点机制（`.cursorrules` v1.0）
 - ✅ 升级错误模式库（从6个错误扩展到8个错误，5大类型）
-- ✅ 系统指令4.2增加设计意图理解强制步骤（v4.2.5）
+- ✅ 系统指令4.3（轻量化运营版，当前版本）
 - ✅ 形成三层防御机制（Cursor自检 + Claude要求 + 错误库学习）
 
 **效果**：
@@ -151,7 +150,7 @@
 **关键文件**：
 
 - `.cursorrules` - Cursor AI工作规则（强制思考点机制）
-- `系统指令4.2.md` - Claude系统指令（v4.2.5，包含设计意图理解）
+- `系统指令4.3.md` - Claude系统指令（v4.3轻量化运营版，当前版本）
 - `01_工作检查清单.md` - 错误模式库（v1.1，5大类型8个错误模式）
 
 **起盘方案v2.0执行工具（Week 0-12）：**
@@ -226,7 +225,7 @@
 
 1. 打开 [`00_核心文档/DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md)
 2. 按照指南配置Claude Projects：
-   - 复制 `系统指令4.2.md` 到Custom Instructions
+   - 复制 `系统指令4.3.md` 到Custom Instructions
    - 上传 `progress-tracker.md` 到Knowledge Base
 3. 测试系统："当前任务是什么？"
 
@@ -359,7 +358,7 @@
 A：检查Knowledge Base中的progress-tracker.md是否是最新版本
 
 **Q2：如何更新系统指令？**  
-A：修改Custom Instructions，同时更新GitHub中的系统指令4.2.md
+A：修改Custom Instructions，同时更新GitHub中的系统指令4.3.md
 
 **Q3：新员工如何快速上手？**  
 A：查看 [`DEPLOY-GUIDE-v2.1.md`](./00_核心文档/DEPLOY-GUIDE-v2.1.md) 的第3步：培训员工
