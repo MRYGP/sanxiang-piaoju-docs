@@ -1,0 +1,24 @@
+[33mc7886aa[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m chore: 清理临时文件
+[33mfde60cd[m fix: 全面更新文档（8个业务7个业务，删除所有G业务引用）
+[33m201291b[m chore: 清理过渡文件和无效引用
+[33ma193a6b[m Update 1.md
+[33me45e957[m Update: 更新核心文档、业务解析、运营体系和AI工作系统文档
+[33m4fba61f[m chore: remove temporary file 1.md
+[33m35ae7ef[m docs: update progress tracker with recruitment optimization decision
+[33m1e39e25[m chore: remove temporary analysis files
+[33meee9bcf[m docs: clear 1.md file
+[33me6ed9a7[m refactor(ops): streamline docs - remove duplicates, archive unused docs, simplify recruitment manual
+[33mf12e66b[m chore: clear 1.md content
+[33md8ed1f5[m docs(JD): remove markdown formatting and emojis for BOSSç›´è˜ compatibility
+[33m9ee6daa[m docs(JD): add probation period info in salary structure section
+[33mddac67b[m chore: update 1.md and remove 2.md
+[33m58a6faf[m docs(ä¸šåŠ¡ç®€ä»‹): update H/C/F/G business sections with v2.1 requirements (four truths, U-key limit, seasonality, risk control, euphemistic wording)
+[33m3f0d1b2[m docs(Hä¸šåŠ¡): add U-key daily transfer limit requirement (must exceed monthly trade amount)
+[33mf213d15[m docs: major business logic corrections based on actual operations (C/H/F/G business updates, org structure, partner rules)
+[33ma9cc853[m docs: clear 1.md file
+[33m963ebc0[m docs: upgrade JD to v3.2 - add confidence booster, reorganize responsibilities, enhance probation details
+[33m0a33339[m è¿›åº¦è¿½è¸ªå™¨ï¼šè®°å½•æ–‡æ¡£ç»Ÿä¸€ä»»åŠ¡T005
+[33m5c947b7[m feat(v4.2.3): strengthen output restraint principle - default to concise mode
+[33m150382d[m å‡çº§ç³»ç»ŸæŒ‡ä»¤åˆ°v4.1ï¼ˆèžåˆç‰ˆï¼‰
+[33mc6d4fdc[m 创建深度研究系统v1.0 - 分步式AI研究工具包（11个文件）
+[33m7f4c687[m feat: 知识库结构优化与业务文档完善
